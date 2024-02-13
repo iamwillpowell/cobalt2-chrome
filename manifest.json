@@ -5,16 +5,16 @@
   "manifest_version": 3,
   "theme": {
     "colors": {
-      "frame": [18, 39, 56],
-      "toolbar": [25, 53, 73],
+      "frame": [13, 27, 38],
+      "toolbar": [32, 67, 92],
       "tab_text": [255, 198, 0],
       "tab_background_text": [165, 168, 169],
       "bookmark_text": [236, 236, 236],
-      "ntp_background": [25, 53, 73],
+      "ntp_background": [32, 67, 92],
       "ntp_text": [255, 198, 0],
       "ntp_link": [31, 70, 98],
       "button_background": [0, 0, 0, 0],
-      "omnibox_background": [31, 70, 98, 0.95]
+      "omnibox_background": [13, 27, 38, 0.95]
     },
     "tints": {
       "buttons": [0, 0, 0.93],
